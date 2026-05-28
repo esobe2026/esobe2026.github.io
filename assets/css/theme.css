@@ -619,6 +619,8 @@ output {
 
 iframe {
   border: 0
+  display: block;
+  border-style:none;
 }
 
 summary {
